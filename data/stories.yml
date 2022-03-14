@@ -35,3 +35,8 @@ stories:
   - action: utter_goodbye
   - intent: how_action
   - action: utter_check
+
+- story: test tiếng Việt
+  steps:
+  - intent: chào_hỏi
+  - action: utter_chào_hỏi

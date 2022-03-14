@@ -94,3 +94,7 @@ nlu:
 - intent: how_action
   examples: |
     - who are u?
+    
+- intent: chào_hỏi
+  examples: |
+    - xin chào
